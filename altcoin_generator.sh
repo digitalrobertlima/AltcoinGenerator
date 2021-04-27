@@ -14,15 +14,15 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="MyCoin"
-COIN_UNIT="MYC"
+COIN_NAME="BatCoin"
+COIN_UNIT="BAC"
 # 42 million coins at total (litecoin total supply is 84000000)
-TOTAL_SUPPLY=42000000
-MAINNET_PORT="54321"
-TESTNET_PORT="54322"
-PHRASE="Some newspaper headline that describes something that happened today"
-# First letter of the wallet address. Check https://en.bitcoin.it/wiki/Base58Check_encoding
-PUBKEY_CHAR="20"
+TOTAL_SUPPLY=100000
+MAINNET_PORT="55321"
+TESTNET_PORT="55322"
+PHRASE="In 1619496867 kawaii reset your own pc"
+# First letter of the wallet address. Check https://en.bitcoin.it/wiki/Base58Check_encoding '24=R'
+PUBKEY_CHAR="24"
 # number of blocks to wait to be able to spend coinbase UTXO's
 COINBASE_MATURITY=100
 # leave CHAIN empty for main network, -regtest for regression network and -testnet for test network
