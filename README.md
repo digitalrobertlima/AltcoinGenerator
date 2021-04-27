@@ -135,7 +135,7 @@ Sure. You can either submit patches, or make a donation if you found this projec
 LTC: Lcaey9FP2zdu4C9TSVffDG1DuKh78yCDYT
 BTC: 1BB44xSWSHwgM2AMP7MScqk2CALuo6A6UY
 
-pt_BR:
+pt_BR: (Texto traduzido em portuguÊ do Brasil por Robert Lima)
 Claro. Você pode enviar patches, ou fazer uma doação se você encontrou utilidade neste projeto:
 
 BTC: 33cyMd4zGrHNCrfBdPzszX1okhoMxCGhrN
