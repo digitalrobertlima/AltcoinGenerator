@@ -139,3 +139,4 @@ pt_BR:
 Claro. Você pode enviar patches, ou fazer uma doação se você encontrou utilidade neste projeto:
 
 BTC: 33cyMd4zGrHNCrfBdPzszX1okhoMxCGhrN
+LTC: LTbad2uh6e84TZWQmVvpmrkoqZVCTqR9YV
