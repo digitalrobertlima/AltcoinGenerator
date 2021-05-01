@@ -1,11 +1,13 @@
 # Altcoin Generator - Gerador de altcoin
 en_US: Easiest way to create your own cryptocurrency.
+
 pt_BR: O caminho mais fácil para criar tua própria criptomoeda.
 
 ## What does this script do?
 ## O que este script faz?
 en_US: This script is an experiment to generate new cryptocurrencies (altcoins) based on litecoin.
 It will help you creating a git repository with minimal required changes to start your new coin and blockchain.
+
 pt_BR: Este script é um experimento para gerar novas criptomoedas (altcoins) baseadas no litecoin.
 Isso vai te ajudar a criar um repositório git que requer o mínimo de alterações necessárias para iniciar tua nova moeda e blockchain.
 
@@ -82,6 +84,7 @@ O script irá realizar algumas operações:
 
 en_US: You can first check if your nodes are running and then ask them to generate some blocks.
 Instructions on how to do it will be printed once the script execution is done.
+
 pt_BR: Você pode primeiramente checar se teus nós estão executando corretamente e pedir para que eles gerem alguns blocos.
 As instruções sobre como fazer isso serão impressas assim que a execução do script for concluída.
 
