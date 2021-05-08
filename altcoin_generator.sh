@@ -14,24 +14,24 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="BatCoin"
-COIN_UNIT="BAC"
+COIN_NAME="HashCash"
+COIN_UNIT="HCS"
 # 42 million coins at total (litecoin total supply is 84000000)
-TOTAL_SUPPLY=100000
-MAINNET_PORT="55321"
-TESTNET_PORT="55322"
-PHRASE="In 1619496867 kawaii reset your own pc"
+TOTAL_SUPPLY=77000001
+MAINNET_PORT="77273"
+TESTNET_PORT="77272"
+PHRASE="1620502054 - O auxílio de 2021 tem parcelas entre 150 e 375 Reais(R$). Menores do que as de 2020. Muitos que receberam na primeira fase não participaram da segunda!"
 # First letter of the wallet address. Check https://en.bitcoin.it/wiki/Base58Check_encoding '24=R'
-PUBKEY_CHAR="24"
+PUBKEY_CHAR="16"
 # number of blocks to wait to be able to spend coinbase UTXO's
-COINBASE_MATURITY=100
+COINBASE_MATURITY=80
 # leave CHAIN empty for main network, -regtest for regression network and -testnet for test network
 CHAIN="-regtest"
 # this is the amount of coins to get as a reward of mining the block of height 1. if not set this will default to 50
 #PREMINED_AMOUNT=10000
 
 # warning: change this to your own pubkey to get the genesis block mining reward
-GENESIS_REWARD_PUBKEY=044e0d4bc823e20e14d66396a64960c993585400c53f1e6decb273f249bfeba0e71f140ffa7316f2cdaaae574e7d72620538c3e7791ae9861dfe84dd2955fc85e8
+GENESIS_REWARD_PUBKEY=0404D7D2BA0BC2D98E9A00AE9B32C575C9E8B4ADDCC990F086F8631D207D4233333E959CDAEA1794EE57A13C82D0137A4C83E365491C613DD24A343EE3F4A10223
 
 # dont change the following variables unless you know what you are doing
 LITECOIN_BRANCH=0.16
