@@ -14,17 +14,17 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="HashCash"
-COIN_UNIT="HCS"
+COIN_NAME="ControlCoin"
+COIN_UNIT="CTRL"
 # 42 million coins at total (litecoin total supply is 84000000)
-TOTAL_SUPPLY=77000001
+TOTAL_SUPPLY=63000000
 MAINNET_PORT="77273"
 TESTNET_PORT="77272"
 PHRASE="1620502054 - O auxílio de 2021 tem parcelas entre 150 e 375 Reais(R$). Menores do que as de 2020. Muitos que receberam na primeira fase não participaram da segunda!"
 # First letter of the wallet address. Check https://en.bitcoin.it/wiki/Base58Check_encoding '24=R'
-PUBKEY_CHAR="16"
+PUBKEY_CHAR="11"
 # number of blocks to wait to be able to spend coinbase UTXO's
-COINBASE_MATURITY=80
+COINBASE_MATURITY=100
 # leave CHAIN empty for main network, -regtest for regression network and -testnet for test network
 CHAIN="-regtest"
 # this is the amount of coins to get as a reward of mining the block of height 1. if not set this will default to 50
